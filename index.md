@@ -10,6 +10,8 @@ Cheti | Veera | [Mohandas](#Mohandas)
 
 # <a name="Mohandas"></a> Mohandas
 
+![Mohandas Img](/Sample.png)
+
 Spouse | Daughters | Sons
 ------ | --------- | ----
 Rukmanibai | Lila | Ramchand
