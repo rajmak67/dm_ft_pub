@@ -7,7 +7,18 @@ Spouse | Daughters | Sons
 Cheti | Veera | Mohandas
       | NA    | Rupchand
       |       | Lachmandas
+
+# Mohandas
+Spouse | Daughters | Sons
+------ | --------- | ----
+Rukmanibai | Lila | Ramchand
+      | Kaushalya    | Kishin
+      | Ganga | Gobindram
+      | Kaushalya | Kishin
+      | Shanti | Gobindram
+      | Raju | Hari
       
+
 You can use the [editor on GitHub](https://github.com/rajmak67/dm_ft_pub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
