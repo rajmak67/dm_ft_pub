@@ -9,6 +9,7 @@ Cheti | Veera | Mohandas
       |       | Lachmandas
 
 # Mohandas
+
 Spouse | Daughters | Sons
 ------ | --------- | ----
 Rukmanibai | Lila | Ramchand
