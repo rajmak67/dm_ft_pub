@@ -12,11 +12,11 @@ Cheti | Veera | Mohandas
 Spouse | Daughters | Sons
 ------ | --------- | ----
 Rukmanibai | Lila | Ramchand
-      | Kaushalya    | Kishin
+      | Kaushalya | Kishin
       | Ganga | Gobindram
       | Kaushalya | Kishin
-      | Shanti | Gobindram
-      | Raju | Hari
+      | Shanti | Hari
+      | Raju | 
       
 
 You can use the [editor on GitHub](https://github.com/rajmak67/dm_ft_pub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
