@@ -4,11 +4,11 @@
 
 Spouse | Daughters | Sons
 ------ | --------- | ----
-Cheti | Veera | Mohandas
+Cheti | Veera | [Mohandas](#Mohandas)
       | NA    | Rupchand
       |       | Lachmandas
 
-# Mohandas
+# <a name="Mohandas"></a> Mohandas
 
 Spouse | Daughters | Sons
 ------ | --------- | ----
