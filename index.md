@@ -1,12 +1,17 @@
-## Welcome to Dhanrajmal Balaram Makhija's Family Tree
+# Welcome to Dhanrajmal Balaram Makhija's Family Tree
 
 # Dhanrajmal Balram Makhija
 
-Spouse | Daughters | Sons
------- | --------- | ----
-Cheti | Veera | [Mohandas](#Mohandas)
-      | NA    | Rupchand
-      |       | Lachmandas
+Self | Spouse
+---- | ------
+Dhanrajmal | Cheti 
+![Dhanrajmal Img](/Sample.png) | ![Cheti Img](/Sample.png)
+
+Daughters | Sons
+--------- | ----
+Veera | [Mohandas](#Mohandas)
+NA    | Rupchand
+      | Lachmandas
 
 # <a name="Mohandas"></a> Mohandas
 
