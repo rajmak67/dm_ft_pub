@@ -15,7 +15,7 @@ NA    | Rupchand
 
 # Generation 1
 
-## [Dhanrajmal](#Dhanrajmal) <a name="Mohandas"></a> Mohandas
+## [Dhanrajmal](#Dhanrajmal) -> <a name="Mohandas"></a> Mohandas
 
 Spouse | Daughters | Sons
 ------ | --------- | ----
